@@ -1,0 +1,16 @@
+1. How long did this take (estimate)?
+This lab took me about 2.5 hours total, including coding, testing, debugging, and pushing everything to GitHub.
+
+2. What were the enjoyable aspects of the lab?
+The most enjoyable part of this lab was seeing the bar chart and scatterplot work together. I liked how clicking the bars filtered the points because it made the visualization feel much more interactive. I also liked changing the scatterplot points from circles to different symbols because it made the chart more visually interesting.
+
+3. What were the challenging parts of this lab?
+The most challenging part was keeping track of how the files connected to each other across main.js, barchart.js, and scatterplot.js. It was also a little tricky to understand how the dispatcher worked and how to update the scatterplot without changing the original dataset. Replacing circles with symbols and adding jitter also took some attention to get right.
+
+4. What resources did you use? Include links to websites below.
+I used the lab handout provided for the course.
+I also used:
+https://d3js.org/
+https://github.com/d3/d3-dispatch
+https://github.com/d3/d3-shape
+https://developer.mozilla.org/
