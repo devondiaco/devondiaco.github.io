@@ -1,0 +1,31 @@
+Lab 8 Write-Up
+
+1. Responsive scatterplot screenshots
+
+I included two screenshot files in the repository:
+- screenshot-web.png
+- screenshot-mobile.png
+
+The web screenshot shows the responsive scatterplot at desktop size. The mobile screenshot shows the same visualization resized for a phone screen. Note: the included files are placeholders until I replace them with screenshots from my actual GitHub Pages site.
+
+2. How long did this take?
+
+This lab took me about 4 to 5 hours. The scrollytelling section took the longest because it required changing the original trails example so that the text, IDs, variables, and visualization steps matched the assignments dataset.
+
+3. What were the enjoyable aspects of the lab?
+
+The most enjoyable part was seeing how different advanced visualization techniques can make a project feel more polished. I especially liked the scrollytelling section because it guided the viewer through the data step by step instead of showing everything all at once.
+
+4. What were the challenging parts of this lab?
+
+The most challenging part was keeping the scrollytelling code consistent after changing the example from trails to assignments. It was easy to miss old variable names or captions. The responsive scatterplot was also challenging because the chart had to update based on the container width instead of using a fixed width.
+
+5. What resources did you use?
+
+I used the Lab 8 instructions, the D3 documentation, the d3-force documentation, the d3-annotation examples, and the Waypoints library documentation.
+
+Resources:
+- https://d3js.org/
+- https://d3js.org/d3-force
+- https://d3-annotation.susielu.com/
+- http://imakewebthings.com/waypoints/
